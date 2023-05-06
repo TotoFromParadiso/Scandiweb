@@ -1,0 +1,27 @@
+.buttons {
+    
+    display: inline-block;
+    text-align: right;
+    margin-left: 500px;
+}
+
+.product_list {
+    text-align: left;
+    display: inline-block;
+    margin-right: 390px;
+    margin-left: 25px;
+}
+
+.hr {
+    margin-bottom: 10px;
+}
+
+.checkboxes{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.second_p {
+    text-align: center;
+}
